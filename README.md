@@ -4,10 +4,10 @@
 
 <b>Changes to be done at Source Machine: Ansible Hosts</b></br>
 
-Add this line to hosts file at /etc/ansible/hosts
+Add this line to hosts file at /etc/ansible/hosts (Ignore the " ")
 
 <code>
-<IP> ansible_ssh_pass="password" ansible_ssh_user="username"
+"Replace with your IP" ansible_ssh_pass="Replace with your System password" ansible_ssh_user="Replace with your System username"
 </code>
 
 </br>Add more IP information in this format, for configuring mutilple servers
