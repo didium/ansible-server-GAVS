@@ -2,7 +2,7 @@
 
 <h3>Configure and Install programs on other Linux PCs within/outside an organization using Ansible. </h3></br>
 
-<b>Changes at Source Machine: Ansible Hosts</b></br>
+<b>Changes to be done at Source Machine: Ansible Hosts</b></br>
 
 Add this line to hosts file at /etc/ansible/hosts
 
