@@ -1,6 +1,6 @@
 # ansible-server-GAVS
 
-<h2>Configure and Install programs of other Linux PCs within/outside an organization using Ansible. </h2></br>
+<h3>Configure and Install programs of other Linux PCs within/outside an organization using Ansible. </h3></br>
 
 <b>Changes at Source Machine: Ansible Hosts</b></br>
 
@@ -20,4 +20,4 @@ Add this line to hosts file at /etc/ansible/hosts
 </br>And add this line at end of the document
 </br><user> ALL = (ALL) NOPASSWD:ALL
 
-</b> -- Dibin Dixit </b>
+<b> -- Dibin Dixit </b>
