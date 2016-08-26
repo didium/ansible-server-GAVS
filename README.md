@@ -5,7 +5,6 @@
 <b>Changes to be done at Source Machine: Ansible Hosts</b></br>
 
 Follow the format and make changes to the hosts file at /etc/ansible/hosts (Ignore the " ")
-
 </br>Add more IP information in this format, for configuring mutilple servers
 
 </br><b>Changes to be done at Target machine:</b></br>
