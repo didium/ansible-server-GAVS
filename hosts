@@ -1,0 +1,3 @@
+[web] 
+10.0.xx.xxx ansible_ssh_pass=********* ansible_ssh_user=administrator
+10.0.xx.xxx ansible_ssh_pass=********* ansible_ssh_user=administrator
